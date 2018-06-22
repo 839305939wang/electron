@@ -46,7 +46,7 @@
     * [10.1 单元测试](https://github.com/ChenShenhai/koa2-note/blob/master/note/test/unit.md)
 * [11. debug]()
     * [11.1 开发debug](https://github.com/ChenShenhai/koa2-note/blob/master/note/debug/info.md)
-* [12. 应用异常处理()
+* [12. 应用异常处理]()
     * [12.1 应用崩溃挂起处理](https://github.com/839305939wang/electron/docs/crash.md)
     * [12.2 崩溃日志](https://github.com/839305939wang/electron/docs/crashReporter.md)
 * [13. 其他进阶]()
